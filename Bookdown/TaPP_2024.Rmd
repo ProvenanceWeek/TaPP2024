@@ -1,0 +1,49 @@
+---
+title: "TaPP 2024"
+---
+
+```{r, fig.align = 'center',out.width= '100%', echo=FALSE }
+knitr::include_graphics(path = "PNGs/austin.jpeg", auto_pdf = TRUE)
+``` 
+
+# Intro {-}
+
+The Theory and Practice of Provenance workshop series was started in San Francisco in 2009. TaPP aims to be a venue for early-stage and innovative research ideas related to provenance, and a forum to encourage exchange of ideas between researchers working on provenance and practitioners or potential users of such research. Industry and academic participants interested in provenance in any setting are welcome, and workshop contributions describing unsolved problems or new potential application areas for provenance research are particularly welcome. 
+
+__[Previous TaPPs](https://provenanceweek.github.io/TaPP2023/TaPPs/)__
+
+# Workshop Program {-}
+
+Coming Soon
+
+# Organizers {-}
+
+## Program Committee {-}
+
+Coming Soon
+
+
+## PC Chairs {-}
+
+- Yuval Moskovitch
+- Daniel Deutch
+
+## TaPP Steering Committee {-}
+
+- Adriane Chapman (chair)
+- James Cheney
+- Sara Cohen-Boulakia
+- Ashish Gehani
+- Melanie Herschel
+- Bill Howe
+- Bertram Ludaescher
+- Tanu Malik
+- Paolo Missier
+- Thomas Moyer
+- Thomas Pasquier
+- Sudeepa Roy
+- Daniel Deutch
+
+# Contact {-}
+
+To contact us about the workshop please email the following [address](mailto:tapp2022sigmod@gmail.com)
