@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono&family=Lexend&display=swap');
+.book.font-family-1 {
+  font-family: 'Lexend', sans-serif;
+ }
+  .summary{
+  font-family: 'Lexend', sans-serif;
+}
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
