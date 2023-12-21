@@ -1,5 +1,5 @@
 ---
-title: "TaPP 2024"
+title: "16th International Workshop on Theory and Practice of Provenance"
 editor_options: 
   markdown: 
     wrap: 72
