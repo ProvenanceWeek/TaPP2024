@@ -71,6 +71,8 @@ blockquote {
 }
 </style>
 
+| Event                     | Date              |
+| :------------------------ | :---------------- |
 | Paper Submission Deadline | March 15, 2024    |
 | Author Notification       | April 30, 2024    |
 | Camera-ready Due          | May 15, 2024      |
@@ -100,7 +102,7 @@ Regardless of the track, papers must be:
 # Tentative Workshop Schedule {-}
 
 | Time          | Event                                 |
-| ------------- | ------------------------------------- |
+| :------------ | :------------------------------------ |
 | 09:00 - 09:10 | OpeningRemarks from Organizers        |
 | 09:10 - 09:55 | Keynote                               |
 | 10:00 - 11:40 | Paper Presentations and Discussions I |
@@ -178,4 +180,4 @@ If a submission deals with any kind of personal identifiable information (PII) o
 
 # Contact {-}
 
-To contact us about the workshop please email the following [address](mailto:)
+To contact us about the workshop please email the following [address](mailto:).
