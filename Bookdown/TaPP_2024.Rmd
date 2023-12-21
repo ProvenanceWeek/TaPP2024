@@ -1,5 +1,8 @@
 ---
 title: "TaPP 2024"
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
 <style>
 p.comment {
@@ -68,8 +71,8 @@ blockquote {
 </style>
 
 | Paper Submission Deadline | March 15, 2024    |
-| Author Notification       | April 30, 2024   |
-| Camera-ready Due          | May 15, 2024       |
+| Author Notification       | April 30, 2024    |
+| Camera-ready Due          | May 15, 2024      |
 
 # Submission instructions {-}
 
@@ -103,7 +106,7 @@ Regardless of the track, papers must be:
 | 13:30 - 14:10 | Invited Talk                          |
 | 14:15 - 15:55 | Paper Presentations and Discussions II|
 | 16:00 - 16:30 | Best of the Rest II                   |
-| 16:30 - 17:00 | Town Hall and Conclusions            |
+| 16:30 - 17:00 | Town Hall and Conclusions             |
 
 # Organizers {-}
 
@@ -152,10 +155,11 @@ Regardless of the track, papers must be:
 
 ## Ethical Considerations {-}
 
-TaPP'24 ethical guidelines are aligned with the conference guidelines. We report them here verbatim.
+We adopt the ethical guidelines from IEEE S&P 2024. 
+We report them here verbatim.
 
 ## Ethical Considerations for Vulnerability Disclosure {-}
-Where research identifies a vulnerability (e.g., software vulnerabilities in a given program, design weak- nesses in a hardware system, or any other kind of vulnerability in deployed systems), we expect that researchers act in a way that avoids gratuitous harm to affected users and, where possible, affirmatively protects those users. In nearly every case, disclosing the vulnerability to vendors of affected systems, and other stakeholders, will help protect users. It is the committee’s sense that a disclosure window of 45 days (see this [link](https://vuls.cert.org/confluence/display/Wiki/Vulnerability+Disclosure+Policy)) to 90 days (see this [link](https://googleprojectzero.blogspot.com/p/vulnerability-disclosure-faq.html)) ahead of publication is consistent with authors’ ethical obligations.
+Where research identifies a vulnerability (e.g., software vulnerabilities in a given program, design weaknesses in a hardware system, or any other kind of vulnerability in deployed systems), we expect that researchers act in a way that avoids gratuitous harm to affected users and, where possible, affirmatively protects those users. In nearly every case, disclosing the vulnerability to vendors of affected systems, and other stakeholders, will help protect users. It is the committee’s sense that a disclosure window of 45 days (see this [link](https://vuls.cert.org/confluence/display/Wiki/Vulnerability+Disclosure+Policy)) to 90 days (see this [link](https://googleprojectzero.blogspot.com/p/vulnerability-disclosure-faq.html)) ahead of publication is consistent with authors' ethical obligations.
 
 Longer disclosure windows (which may keep vulnerabilities from the public for extended periods of time) should only be considered in exceptional situations, e.g., if the affected parties have provided convincing evidence the vulnerabilities were previously unknown and the full rollout of mitigations requires additional time. The authors are encouraged to consult with the PC chairs in case of questions or concerns.
 
@@ -172,3 +176,5 @@ If a submission deals with any kind of personal identifiable information (PII) o
 # Contact {-}
 
 To contact us about the workshop please email the following [address](mailto:)
+=======
+knitr::include_graphics(path = "PNGs/vienna.jpeg", auto_pdf = TRUE)
