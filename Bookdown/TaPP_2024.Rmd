@@ -37,7 +37,7 @@ __[Previous TaPPs](https://provenanceweek.github.io/TaPP2023/TaPPs/)__
 
 # Call for Papers {-}
 
-TaPP 2024 inherits the tradition of providing a genuine workshop environment for discussing and developing new ideas and exploring connections between disciplines and between academic research on provenance and practical applications. We particularly welcome submissions covering security-related topics this year but continue to support diverse conversations from all disciplines, bringing together researchers from a wide range of computer science domains including workflows, databases, high performance computing, distributed systems, operating systems, programming languages, and software engineering, that have urgent provenance needs. Submission topics reflect the cross-cutting nature of this field, including, but not limited to:
+TaPP'24 inherits the tradition of providing a genuine workshop environment for discussing and developing new ideas and exploring connections between disciplines and between academic research on provenance and practical applications. We particularly welcome submissions covering security-related topics this year but continue to support diverse conversations from all disciplines, bringing together researchers from a wide range of computer science domains including workflows, databases, high performance computing, distributed systems, operating systems, programming languages, and software engineering, that have urgent provenance needs. Submission topics reflect the cross-cutting nature of this field, including, but not limited to:
 
 - Trust, transparency, and accountability
     - Provenance and trustworthy systems
