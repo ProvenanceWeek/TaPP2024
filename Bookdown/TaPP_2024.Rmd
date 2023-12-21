@@ -1,9 +1,24 @@
 ---
 title: "TaPP 2024"
 ---
+<style>
+p.comment {
+background-color: #DBDBDB;
+padding: 10px;
+border: 1px solid black;
+margin-left: 25px;
+border-radius: 5px;
+font-style: italic;
+}
+
+</style>
+
+<div class="alert alert-info">
+  <strong>Info!</strong> TaPP 2024 will be jointly held with [IEEE EuroS&P](https://www.ieee-security.org/TC/EuroSP2024/index.html) in July!
+</div>
 
 ```{r, fig.align = 'center',out.width= '100%', echo=FALSE }
-knitr::include_graphics(path = "PNGs/austin.jpeg", auto_pdf = TRUE)
+knitr::include_graphics(path = "PNGs/vienna.jpeg", auto_pdf = TRUE)
 ``` 
 
 # Intro {-}
@@ -52,9 +67,9 @@ blockquote {
 }
 </style>
 
-| Paper Submission Deadline | January 25, 2023    |
-| Author Notification       | February 25, 2024   |
-| Camera-ready Due          | March 5, 2024       |
+| Paper Submission Deadline | March 15, 2024    |
+| Author Notification       | April 30, 2024   |
+| Camera-ready Due          | May 15, 2024       |
 
 # Submission instructions {-}
 
@@ -80,14 +95,14 @@ Regardless of the track, papers must be:
 
 # Tentative Workshop Schedule {-}
 
-| 09:00 - 09:10 | Opening                              |
-| 09:10 - 10:00 | Keynote                              |
-| 10:00 - 11:45 | Paper Presentations and Discussions 1|
-| 11:45 - 12:15 | Best of the Rest 1                   |
-| 12:15 - 13:30 | Lunch                                |
-| 13:30 - 14:15 | Invited Talk                         |
-| 14:15 - 16:00 | Paper Presentations and Discussions 2|
-| 16:00 - 16:30 | Best of the Rest 2                   |
+| 09:00 - 09:10 | OpeningRemarks from Organizers        |
+| 09:10 - 09:55 | Keynote                               |
+| 10:00 - 11:40 | Paper Presentations and Discussions I |
+| 11:45 - 12:15 | Best of the Rest I                    |
+| 12:15 - 13:25 | Lunch                                 |
+| 13:30 - 14:10 | Invited Talk                          |
+| 14:15 - 15:55 | Paper Presentations and Discussions II|
+| 16:00 - 16:30 | Best of the Rest II                   |
 | 16:30 - 17:00 | Town Hall and Conclusions            |
 
 # Organizers {-}
@@ -101,6 +116,7 @@ Regardless of the track, papers must be:
 - Adam Bates, _University of Illinois Urbana-Champaign_ 
 - Ghita Berrada, _King's College London_
 - Elisa Bertino, _Purdue University_
+- James Cheney, _University of Edinburgh_
 - David Eyers, _University of Otago_
 - Ashish Gehani, _SRI International_
 - Dongqi Han, _Tsinghua University_
