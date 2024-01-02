@@ -17,7 +17,8 @@ font-style: italic;
 </style>
 
 <div class="alert alert-info">
-  <strong>NEWS</strong> TaPP 2024 will be jointly held with [IEEE EuroS&P](https://www.ieee-security.org/TC/EuroSP2024/index.html) in July!
+  <strong>NEWS</strong> TaPP 2024 will be jointly held with [IEEE EuroS&P](https://www.ieee-security.org/TC/EuroSP2024/index.html) on 
+  <strong>July 12, 2024</strong>!
 </div>
 
 ```{r, fig.align = 'center',out.width= '100%', echo=FALSE }
