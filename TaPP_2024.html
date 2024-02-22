@@ -216,22 +216,26 @@ blockquote {
 <h1>Submission instructions<a href="#submission-instructions" class="anchor-section" aria-label="Anchor link to header"></a></h1>
 <div id="research-track" class="section level2 unnumbered hasAnchor">
 <h2>Research Track<a href="#research-track" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>We invite innovative and creative contributions, including papers outlining new challenges for provenance research, promising formal approaches to provenance, experiments, and visionary (and possibly risky) ideas. Research track papers can be submitted as:
-- <em>Long papers</em>: This track solicits full research papers that describe mature, high-quality research up to 8 pages, including references and other supporting material.
-- <em>Short papers</em>: This track typically include work in progress or visionary ideas up to 4 pages (including references and other supporting material) that are not yet fully developed, but have the potential to lead to cutting-edge research.</p>
+<p>We invite innovative and creative contributions, including papers outlining new challenges for provenance research, promising formal approaches to provenance, experiments, and visionary (and possibly risky) ideas. Research track papers can be submitted as:</p>
+<ul>
+<li><em>Long papers</em>: This track solicits full research papers that describe mature, high-quality research up to 8 pages, excluding references and other supporting material.</li>
+<li><em>Short papers</em>: This track typically include work in progress or visionary ideas up to 4 pages (excluding references and other supporting material) that are not yet fully developed, but have the potential to lead to cutting-edge research.</li>
+</ul>
 </div>
 <div id="application-track" class="section level2 unnumbered hasAnchor">
 <h2>Application Track<a href="#application-track" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>Application track papers up to 6 pages (including references and other supporting material) should focus on innovative use of provenance, deployment of provenance-based solutions and open-source software. We invite authors to share insights, experience, and lessons learned when deploying provenance systems. We encourage submissions describing datasets, tools, or infrastructure that could benefit the community at large.</p>
+<p>Application track papers up to 6 pages (excluding references and other supporting material) should focus on innovative use of provenance, deployment of provenance-based solutions and open-source software. We invite authors to share insights, experience, and lessons learned when deploying provenance systems. We encourage submissions describing datasets, tools, or infrastructure that could benefit the community at large.</p>
 </div>
 <div id="best-of-the-rest" class="section level2 unnumbered hasAnchor">
 <h2>“Best of the Rest”<a href="#best-of-the-rest" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>As the provenance community is now established and publishing in conferences and journals across computer science domains, TaPP is forming a “Best of the Rest” category. If you have had a provenance paper accepted to a conference or journal in 2023 through February 2024, we invite you to submit the abstract to TaPP. We will invite the “Best of the Rest” to present their work at TaPP to widen the conversation.
 Submit the abstract and original publication venue and date of the previously published work. The title of the abstract must begin with “BEST:”.</p>
-<p>Regardless of the track, papers must be:
-- Not published or under review elsewhere
-- Formatted according to the conference format
-- Supporting material may be submitted, but the reviewers will not be obliged to read them</p>
+<p><strong>Regardless of the track</strong>, papers must be:</p>
+<ul>
+<li>Not published or under review elsewhere</li>
+<li>Formatted according to the conference format, following the IEEE EuroS&amp;P conference proceedings templates (<a href="https://www.ieee-security.org/TC/EuroSP2023/eurosp-2023-template.zip">https://www.ieee-security.org/TC/EuroSP2023/eurosp-2023-template.zip</a>)</li>
+<li>Supporting material may be submitted, but the reviewers will not be obliged to read them. Maximum <span class="math inline">\(2\)</span> pages for appendixes and additional <span class="math inline">\(2\)</span> pages for references are allowed.</li>
+</ul>
 </div>
 </div>
 <div id="tentative-workshop-schedule" class="section level1 unnumbered hasAnchor">
@@ -419,6 +423,20 @@ gitbook.start({
 });
 </script>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 </body>
 
 </html>

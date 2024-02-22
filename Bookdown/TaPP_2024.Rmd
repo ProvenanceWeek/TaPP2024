@@ -83,22 +83,25 @@ blockquote {
 ## Research Track {-}
 
 We invite innovative and creative contributions, including papers outlining new challenges for provenance research, promising formal approaches to provenance, experiments, and visionary (and possibly risky) ideas. Research track papers can be submitted as:
-- _Long papers_: This track solicits full research papers that describe mature, high-quality research up to 8 pages, including references and other supporting material.
-- _Short papers_: This track typically include work in progress or visionary ideas up to 4 pages (including references and other supporting material) that are not yet fully developed, but have the potential to lead to cutting-edge research.
+
+- _Long papers_: This track solicits full research papers that describe mature, high-quality research up to 8 pages, excluding references and other supporting material.
+- _Short papers_: This track typically include work in progress or visionary ideas up to 4 pages (excluding references and other supporting material) that are not yet fully developed, but have the potential to lead to cutting-edge research.
 
 ## Application Track{-}
 
-Application track papers up to 6 pages (including references and other supporting material) should focus on innovative use of provenance, deployment of provenance-based solutions and open-source software. We invite authors to share insights, experience, and lessons learned when deploying provenance systems. We encourage submissions describing datasets, tools, or infrastructure that could benefit the community at large.
+Application track papers up to 6 pages (excluding references and other supporting material) should focus on innovative use of provenance, deployment of provenance-based solutions and open-source software. We invite authors to share insights, experience, and lessons learned when deploying provenance systems. We encourage submissions describing datasets, tools, or infrastructure that could benefit the community at large.
 
 ## "Best of the Rest" {-}
 
 As the provenance community is now established and publishing in conferences and journals across computer science domains, TaPP is forming a "Best of the Rest" category. If you have had a provenance paper accepted to a conference or journal in 2023 through February 2024, we invite you to submit the abstract to TaPP. We will invite the "Best of the Rest" to present their work at TaPP to widen the conversation.
 Submit the abstract and original publication venue and date of the previously published work. The title of the abstract must begin with "BEST:".
 
-Regardless of the track, papers must be:
+
+**Regardless of the track**, papers must be:
+
 - Not published or under review elsewhere
-- Formatted according to the conference format
-- Supporting material may be submitted, but the reviewers will not be obliged to read them
+- Formatted according to the conference format, following the IEEE EuroS&P conference proceedings templates ([https://www.ieee-security.org/TC/EuroSP2023/eurosp-2023-template.zip](https://www.ieee-security.org/TC/EuroSP2023/eurosp-2023-template.zip))
+- Supporting material may be submitted, but the reviewers will not be obliged to read them. Maximum $2$ pages for appendixes and additional $2$ pages for references are allowed.
 
 # Tentative Workshop Schedule {-}
 
