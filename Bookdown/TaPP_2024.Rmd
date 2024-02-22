@@ -102,7 +102,7 @@ Submit the abstract and original publication venue and date of the previously pu
 - Not published or under review elsewhere
 - Formatted according to the conference format, following the IEEE EuroS&P conference proceedings templates ([https://www.ieee-security.org/TC/EuroSP2023/eurosp-2023-template.zip](https://www.ieee-security.org/TC/EuroSP2023/eurosp-2023-template.zip))
 - Supporting material may be submitted, but the reviewers will not be obliged to read them. Maximum $2$ pages for appendices and additional $2$ pages for references are allowed
-- Submitted via [EasyChair]() and updated at any time until the submission deadline
+- Submitted via [EasyChair](https://www.google.com/url?q=https://easychair.org/conferences/?conf%3Dtapp24&source=gmail-imap&ust=1709217724000000&usg=AOvVaw1wNJ97GMwkKSthdo_O4l8u) and updated at any time until the submission deadline
 
 # Tentative Workshop Schedule {-}
 
