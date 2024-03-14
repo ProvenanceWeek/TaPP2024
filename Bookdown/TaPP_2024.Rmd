@@ -74,7 +74,7 @@ blockquote {
 
 | Event                     | Date              |
 | :------------------------ | :---------------- |
-| Paper Submission Deadline | ~~March 15, 2024~~  March 22, 2024  |
+| Paper Submission Deadline | ~~March 15, 2024~~  <span style="color:red">March 22, 2024</span>  |
 | Author Notification       | April 30, 2024    |
 | Camera-ready Due          | May 15, 2024      |
 
