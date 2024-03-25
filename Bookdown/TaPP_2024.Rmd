@@ -141,6 +141,7 @@ Submit the abstract and original publication venue and date of the previously pu
 - Qiujian Lv, _Chinese Academy of Sciences_
 - Tanu Malik, _DePaul University_
 - Thomas Pasquier, _University of British Columbia_
+- Adam Pocock, _Oracle_
 - R. Sekar, _Stony Brook University_
 - Pierre Senellart, _Ecole Normale Superieure_
 - Benjamin Ujcich, _Georgetown University_
