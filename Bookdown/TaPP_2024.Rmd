@@ -139,7 +139,6 @@ Submit the abstract and original publication venue and date of the previously pu
 - Wajih UI Hassan, _University of Virginia_
 - Matteo Interlandi, _Microsoft Research_
 - Bertram Ludaescher, _University of Illinois Urbana-Champaign_
-- Qiujian Lv, _Chinese Academy of Sciences_
 - Tanu Malik, _DePaul University_
 - Thomas Pasquier, _University of British Columbia_
 - Adam Pocock, _Oracle_
