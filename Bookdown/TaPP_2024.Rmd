@@ -104,28 +104,43 @@ Submit the abstract and original publication venue and date of the previously pu
 - Supporting material may be submitted, but the reviewers will not be obliged to read them. Maximum $2$ pages for appendices and additional $2$ pages for references are allowed
 - Submitted via [EasyChair](https://www.google.com/url?q=https://easychair.org/conferences/?conf%3Dtapp24&source=gmail-imap&ust=1709217724000000&usg=AOvVaw1wNJ97GMwkKSthdo_O4l8u) and updated at any time until the submission deadline
 
-# Tentative Workshop Schedule {-}
+# Workshop Schedule {-}
 
 | Time          | Event                                        |
 | :------------ | :------------------------------------        |
 | 08:00         | Registration Opens                           |
-| 08:30 - 08:40 | Opening Remarks from Organizers              |
-| 08:45 - 09:45 | Keynote (R. Sekar, _Stony Brook University_) |
-| 09:45 - 10:15 | Paper Presentations and Discussions I        |
+| 09:00 - 09:15 | Opening and Welcome Remarks, Local Chair Bertram Ludäscher    |
+| 09:15 - 10:15 | Keynote (R. Sekar, _Stony Brook University_) |
 | 10:15 - 10:35 | Morning Break                                |
-| 10:35 - 12:30 | Paper Presentations and Discussions II       |
+| 10:40 - 11:20 | Session I: Capture                           |
+| 11:25 - 12:25 | Session II: Application                      |
 | 12:30 - 13:30 | Lunch                                        |
-| 13:35 - 14:35 | Invited Talk (Mohammad Reza Mousavi, _King's College London_) |
-| 14:40 - 15:10 | Paper Presentations and Discussions III      |
+| 13:30 - 14:30 | Invited Talk (Mohammad Reza Mousavi, _King's College London_) |
+| 14:30 - 15:15 | Session III: Usage                           |
 | 15:15 - 15:35 | Afternoon Break
-| 15:40 - 16:10 | Paper Presentations and Discussions IV       |
-| 16:15 - 17:00 | Town Hall and Conclusions                    |
+| 15:35 - 16:00 | Town Hall and Conclusions                    |
+
+## Session I: Capture
+- Abdullah Almuntashiri, Luis-Daniel Ibáñez and Adriane Chapman. _LLMs for the Post-hoc Creation of Provenance._
+- Nils Hoffmann and Neda Ebrahimi Pour. _A Low Overhead Approach for Automatically Tracking Provenance in Machine Learning Workflows._
+
+## Session II: Application
+- Wisam Abbasi, Adel Taweel and Andrea Saracino. _A Provenance-driven Approach for Detecting Revenue Leakage in Telecom._
+- Michael Johnson, Marcus Paradies, Hans-Rainer Klöckner, Albina Muzafarova, Kristen Lackeos, David J. Champion, Marta Dembska and Sirko Schindler. _Evaluation of Provenance Serialisations for Astronomical Provenance._
+- Tanja Auge, Laura Waltersdorfer, Emil Michels, Susanne Feistel, Susanne Jürgensmann, Fajar J. Ekaputra and Meike Klettke. _Towards an Integrated Provenance Framework: A Scenario for Marine Data._
+
+## Session III: Usage
+- Shatha Algarni, Boris Glavic, Seokki Lee and Adriane Chapman. _Solving Why Not Questions for Aggregate Constraints through Query Repair._
+- Yilin Xia, Shawn Bowers and Bertram Ludäscher. _On the Structure of Game Provenance and its Applications._
 
 # Organizers {-}
 
 ## Program Co-chairs {-}
 - Xueyuan Han-Vanbastelaer, _Wake Forest University_
 - Yuval Moskovitch, _Ben-Gurion University of the Negev_
+
+## Program Local Chair {-}
+- Bertram Ludäscher, _University of Illinois Urbana-Champaign_
 
 ## Program Committee {-}
 
