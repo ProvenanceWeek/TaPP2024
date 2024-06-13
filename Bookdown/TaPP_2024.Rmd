@@ -133,6 +133,15 @@ Submit the abstract and original publication venue and date of the previously pu
 - Shatha Algarni, Boris Glavic, Seokki Lee and Adriane Chapman. _Solving Why Not Questions for Aggregate Constraints through Query Repair._
 - Yilin Xia, Shawn Bowers and Bertram Ludäscher. _On the Structure of Game Provenance and its Applications._
 
+## Keynote and Invited Talks {-}
+
+[Prof. Mohammad Reza Mousavi, King's College London](https://www.nms.kcl.ac.uk/mohammad.mousavi/), Causality for Trustworthiness
+
+Causality is an ancient concept, which is central to much of the scientific methodology, as well as the legal and regulatory systems.
+In this talk, we first review some of our recent work on trust and trustworthiness for autonomous systems.
+Then, we discuss the concept of causality and present some recent applications of actual causality in autonomous systems, including applications in  explainability and insurance law.
+We conclude by some remarks on the potential application of causality in provenance.
+
 # Organizers {-}
 
 ## Program Chairs {-}
