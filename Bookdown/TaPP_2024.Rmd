@@ -106,6 +106,8 @@ Submit the abstract and original publication venue and date of the previously pu
 
 # Workshop Schedule {-}
 
+<span style="color:red">Please register at the registration desk by the entrance of the building. The workshop will take place in Seminar Room 6.</span>
+
 | Time          | Event                                        |
 | :------------ | :------------------------------------        |
 | 08:00         | Registration Opens                           |
